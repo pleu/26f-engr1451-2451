@@ -1,0 +1,301 @@
+employee_id,shift,commute_mode
+E001,Evening,Car
+E002,Day,Walk or bike
+E003,Evening,Public transit
+E004,Day,Walk or bike
+E005,Day,Walk or bike
+E006,Day,Car
+E007,Evening,Walk or bike
+E008,Day,Public transit
+E009,Day,Public transit
+E010,Day,Car
+E011,Day,Walk or bike
+E012,Night,Car
+E013,Night,Car
+E014,Day,Public transit
+E015,Night,Car
+E016,Evening,Public transit
+E017,Day,Public transit
+E018,Evening,Car
+E019,Night,Walk or bike
+E020,Evening,Car
+E021,Evening,Car
+E022,Day,Walk or bike
+E023,Evening,Car
+E024,Day,Public transit
+E025,Night,Walk or bike
+E026,Day,Public transit
+E027,Evening,Car
+E028,Day,Public transit
+E029,Day,Public transit
+E030,Evening,Car
+E031,Evening,Public transit
+E032,Day,Car
+E033,Night,Car
+E034,Evening,Public transit
+E035,Night,Car
+E036,Day,Public transit
+E037,Night,Public transit
+E038,Night,Public transit
+E039,Night,Car
+E040,Evening,Public transit
+E041,Evening,Walk or bike
+E042,Evening,Public transit
+E043,Evening,Car
+E044,Day,Car
+E045,Night,Car
+E046,Evening,Car
+E047,Day,Public transit
+E048,Day,Public transit
+E049,Evening,Public transit
+E050,Day,Car
+E051,Day,Car
+E052,Day,Public transit
+E053,Day,Public transit
+E054,Day,Public transit
+E055,Day,Public transit
+E056,Day,Walk or bike
+E057,Evening,Walk or bike
+E058,Day,Car
+E059,Day,Walk or bike
+E060,Day,Public transit
+E061,Night,Walk or bike
+E062,Day,Public transit
+E063,Evening,Car
+E064,Day,Car
+E065,Night,Public transit
+E066,Night,Car
+E067,Day,Car
+E068,Day,Public transit
+E069,Day,Car
+E070,Day,Car
+E071,Evening,Car
+E072,Day,Car
+E073,Day,Car
+E074,Evening,Car
+E075,Night,Car
+E076,Day,Public transit
+E077,Evening,Walk or bike
+E078,Evening,Car
+E079,Day,Car
+E080,Evening,Car
+E081,Day,Car
+E082,Day,Car
+E083,Night,Public transit
+E084,Day,Public transit
+E085,Evening,Public transit
+E086,Evening,Car
+E087,Night,Public transit
+E088,Day,Car
+E089,Night,Car
+E090,Evening,Car
+E091,Day,Car
+E092,Night,Car
+E093,Night,Public transit
+E094,Evening,Car
+E095,Day,Public transit
+E096,Day,Car
+E097,Evening,Car
+E098,Day,Walk or bike
+E099,Day,Car
+E100,Day,Public transit
+E101,Day,Car
+E102,Day,Public transit
+E103,Day,Public transit
+E104,Night,Car
+E105,Night,Car
+E106,Day,Public transit
+E107,Day,Walk or bike
+E108,Evening,Walk or bike
+E109,Day,Car
+E110,Day,Public transit
+E111,Day,Walk or bike
+E112,Day,Car
+E113,Day,Walk or bike
+E114,Evening,Car
+E115,Evening,Car
+E116,Evening,Car
+E117,Day,Public transit
+E118,Night,Public transit
+E119,Night,Car
+E120,Day,Car
+E121,Day,Car
+E122,Evening,Car
+E123,Night,Car
+E124,Day,Walk or bike
+E125,Evening,Car
+E126,Evening,Car
+E127,Day,Walk or bike
+E128,Evening,Car
+E129,Day,Car
+E130,Night,Car
+E131,Day,Walk or bike
+E132,Day,Car
+E133,Day,Walk or bike
+E134,Night,Car
+E135,Day,Public transit
+E136,Evening,Car
+E137,Day,Walk or bike
+E138,Day,Public transit
+E139,Day,Walk or bike
+E140,Evening,Car
+E141,Day,Walk or bike
+E142,Day,Car
+E143,Evening,Public transit
+E144,Evening,Walk or bike
+E145,Day,Walk or bike
+E146,Night,Car
+E147,Day,Car
+E148,Night,Car
+E149,Evening,Public transit
+E150,Evening,Public transit
+E151,Day,Car
+E152,Day,Public transit
+E153,Day,Car
+E154,Day,Public transit
+E155,Day,Car
+E156,Night,Car
+E157,Night,Car
+E158,Day,Car
+E159,Night,Car
+E160,Day,Car
+E161,Night,Car
+E162,Day,Public transit
+E163,Day,Car
+E164,Evening,Walk or bike
+E165,Evening,Car
+E166,Day,Car
+E167,Evening,Public transit
+E168,Evening,Car
+E169,Day,Car
+E170,Evening,Public transit
+E171,Day,Public transit
+E172,Day,Car
+E173,Evening,Public transit
+E174,Evening,Public transit
+E175,Evening,Car
+E176,Day,Car
+E177,Day,Public transit
+E178,Day,Car
+E179,Day,Car
+E180,Day,Car
+E181,Night,Car
+E182,Night,Car
+E183,Day,Car
+E184,Day,Walk or bike
+E185,Night,Car
+E186,Night,Walk or bike
+E187,Evening,Public transit
+E188,Evening,Car
+E189,Day,Car
+E190,Day,Public transit
+E191,Evening,Walk or bike
+E192,Day,Car
+E193,Day,Car
+E194,Day,Public transit
+E195,Day,Car
+E196,Evening,Car
+E197,Day,Public transit
+E198,Day,Walk or bike
+E199,Night,Car
+E200,Day,Walk or bike
+E201,Evening,Car
+E202,Day,Car
+E203,Day,Car
+E204,Evening,Public transit
+E205,Day,Walk or bike
+E206,Day,Car
+E207,Day,Car
+E208,Day,Walk or bike
+E209,Night,Car
+E210,Day,Car
+E211,Day,Car
+E212,Day,Car
+E213,Day,Public transit
+E214,Night,Car
+E215,Evening,Car
+E216,Evening,Walk or bike
+E217,Night,Car
+E218,Evening,Public transit
+E219,Day,Car
+E220,Night,Car
+E221,Evening,Car
+E222,Evening,Public transit
+E223,Evening,Car
+E224,Evening,Public transit
+E225,Day,Walk or bike
+E226,Evening,Car
+E227,Day,Car
+E228,Evening,Walk or bike
+E229,Evening,Walk or bike
+E230,Evening,Public transit
+E231,Day,Car
+E232,Evening,Car
+E233,Day,Public transit
+E234,Day,Public transit
+E235,Day,Public transit
+E236,Day,Car
+E237,Day,Car
+E238,Night,Car
+E239,Evening,Car
+E240,Night,Car
+E241,Night,Car
+E242,Evening,Walk or bike
+E243,Evening,Car
+E244,Day,Car
+E245,Day,Car
+E246,Night,Car
+E247,Day,Public transit
+E248,Evening,Public transit
+E249,Night,Car
+E250,Day,Public transit
+E251,Evening,Public transit
+E252,Night,Car
+E253,Evening,Car
+E254,Evening,Car
+E255,Day,Walk or bike
+E256,Night,Public transit
+E257,Day,Public transit
+E258,Evening,Walk or bike
+E259,Day,Car
+E260,Evening,Walk or bike
+E261,Day,Walk or bike
+E262,Evening,Public transit
+E263,Evening,Public transit
+E264,Day,Car
+E265,Day,Car
+E266,Day,Car
+E267,Night,Car
+E268,Day,Public transit
+E269,Night,Walk or bike
+E270,Day,Car
+E271,Day,Walk or bike
+E272,Night,Public transit
+E273,Night,Car
+E274,Day,Public transit
+E275,Evening,Walk or bike
+E276,Evening,Car
+E277,Night,Car
+E278,Day,Walk or bike
+E279,Night,Car
+E280,Day,Car
+E281,Day,Car
+E282,Day,Public transit
+E283,Night,Walk or bike
+E284,Night,Car
+E285,Night,Walk or bike
+E286,Evening,Car
+E287,Evening,Car
+E288,Night,Car
+E289,Day,Public transit
+E290,Day,Public transit
+E291,Night,Car
+E292,Evening,Car
+E293,Evening,Walk or bike
+E294,Day,Car
+E295,Evening,Public transit
+E296,Day,Walk or bike
+E297,Day,Car
+E298,Evening,Car
+E299,Evening,Car
+E300,Day,Public transit
